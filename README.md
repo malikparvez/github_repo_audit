@@ -15,4 +15,8 @@ client = Octokit::Client.new(access_token: "")
 
 # List of repositories to check
 repos = ["owner/repo1", "owner/repo2"]
+
+# String to find
+find_string = 'test'
+
 ```
