@@ -29,7 +29,7 @@ task(:insecure_triggers) do
 
         contents.each do |content|
           # Ensure content is a file by checking its type attribute
-          next unless content.type == 'file' && !content.is_a?(Octokit::Response)
+          next unless content.is_a?(Sawyer::Resource) && content.type == 'file'
 
           # Fetch the file content
           file_content = Base64.decode64(github_client.contents(repo.full_name, path: content.path, ref: branch_name).content)
