@@ -36,9 +36,7 @@ task(:insecure_triggers) do
 
           if file_content.include?('pull_request_target')
             branches_with_pull_request_target.add(repo: repo.full_name, branch: branch_name)
-            puts branches_with_pull_request_target
             files_with_pull_request_target << { repo: repo.full_name, branch: branch_name, file: content.path }
-            puts files_with_pull_request_target
           end
            # The GitHub API now only allows 30 searches in a minute
           sleep(2)
