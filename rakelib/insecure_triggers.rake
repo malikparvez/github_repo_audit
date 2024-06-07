@@ -29,7 +29,7 @@ task(:insecure_triggers) do
 
         contents.each do |content|
           # Ensure content is a file by checking its type attribute
-          next unless content.is_a?(Octokit::Response) && content.type == 'file'
+          next unless content.type == 'file' && !content.is_a?(Octokit::Response)
 
           # Fetch the file content
           file_content = Base64.decode64(github_client.contents(repo.full_name, path: content.path, ref: branch_name).content)
@@ -44,13 +44,13 @@ task(:insecure_triggers) do
           sleep(2)
         end
       rescue Octokit::NotFound
-        puts "No .github/workflows directory found in #{repo.full_name} for branch #{branch_name}"
         # If no .github/workflows directory is found, move on to the next repository
         break
       rescue Octokit::ConnectionFailed => e
         puts "Connection failed: #{e.message}"
         next
-      rescue Net::OpenTimeout
+      rescue Net::OpenTimeout => e
+        puts "OpenTimeout: #{e.message}"
         retry_count ||= 0
         retry_count += 1
         sleep(5)
