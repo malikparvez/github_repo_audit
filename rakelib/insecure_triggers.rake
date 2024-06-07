@@ -1,6 +1,6 @@
 
 desc('Check branches and files in .github/workflows for pull_request_target')
-task(:check_pull_request_target) do
+task(:insecure_triggers) do
   require 'set'
 
   branches_with_pull_request_target = Set.new
