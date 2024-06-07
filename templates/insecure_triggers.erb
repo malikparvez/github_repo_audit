@@ -1,0 +1,26 @@
+# Github Actions: pull_request_target
+
+<% if branches_with_pull_request_target.any? %>
+## Branches with 'pull_request_target'
+<details>
+<summary>
+Branches with 'pull_request_target' in their workflows are not inherently dangerous. However, they should be reviewed to ensure security best practices.
+</summary>
+<% branches_with_pull_request_target.each do |entry| %>
+* [<%= entry[:repo]%> (<%= entry[:branch] %>)](https://github.com/<%= entry[:repo] %><%= entry[:branch] %>)
+<% end %>
+</details>
+<% end %>
+
+<% if files_with_pull_request_target.any? %>
+## Files with 'pull_request_target'
+<details>
+<summary>
+Files with 'pull_request_target' in their workflows are not inherently dangerous. However, it is important to review them to ensure security best practices are adhered to.
+</summary>
+
+<% files_with_pull_request_target.each do |entry| %>
+* [<%= entry[:repo]%> (<%= entry[:branch] %>)](https://github.com/<%= entry[:repo] %>/blob/<%= entry[:branch] %>/<%= entry[:file] %>) - <%= entry[:file] %>
+<% end %>
+</details>
+<% end %>
