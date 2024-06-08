@@ -7,137 +7,137 @@
 Branches with 'pull_request_target' in their workflows are not inherently dangerous. However, they should be reviewed to ensure security best practices.
 </summary>
 
-* [puppetlabs/cat-github-actions (main)](https://github.com/puppetlabs/cat-github-actionsmain)
+* [puppetlabs/cat-github-actions (main)](https://github.com/puppetlabs/cat-github-actions/tree/main)
 
-* [puppetlabs/cat-github-actions (remove-secrets-from-env)](https://github.com/puppetlabs/cat-github-actionsremove-secrets-from-env)
+* [puppetlabs/cat-github-actions (remove-secrets-from-env)](https://github.com/puppetlabs/cat-github-actions/tree/remove-secrets-from-env)
 
-* [puppetlabs/cat-team-github-metrics (dependabot/go_modules/cloud.google.com/go/bigquery-1.61.0)](https://github.com/puppetlabs/cat-team-github-metricsdependabot/go_modules/cloud.google.com/go/bigquery-1.61.0)
+* [puppetlabs/cat-team-github-metrics (dependabot/go_modules/cloud.google.com/go/bigquery-1.61.0)](https://github.com/puppetlabs/cat-team-github-metrics/tree/dependabot/go_modules/cloud.google.com/go/bigquery-1.61.0)
 
-* [puppetlabs/cat-team-github-metrics (dependabot/go_modules/github.com/rs/zerolog-1.33.0)](https://github.com/puppetlabs/cat-team-github-metricsdependabot/go_modules/github.com/rs/zerolog-1.33.0)
+* [puppetlabs/cat-team-github-metrics (dependabot/go_modules/github.com/rs/zerolog-1.33.0)](https://github.com/puppetlabs/cat-team-github-metrics/tree/dependabot/go_modules/github.com/rs/zerolog-1.33.0)
 
-* [puppetlabs/cat-team-github-metrics (dependabot/go_modules/google.golang.org/protobuf-1.33.0)](https://github.com/puppetlabs/cat-team-github-metricsdependabot/go_modules/google.golang.org/protobuf-1.33.0)
+* [puppetlabs/cat-team-github-metrics (dependabot/go_modules/google.golang.org/protobuf-1.33.0)](https://github.com/puppetlabs/cat-team-github-metrics/tree/dependabot/go_modules/google.golang.org/protobuf-1.33.0)
 
-* [puppetlabs/cisco_ios (main)](https://github.com/puppetlabs/cisco_iosmain)
+* [puppetlabs/cisco_ios (main)](https://github.com/puppetlabs/cisco_ios/tree/main)
 
-* [puppetlabs/clj-pcp-client (PE-36361-move-pcp-client-to-jetty10)](https://github.com/puppetlabs/clj-pcp-clientPE-36361-move-pcp-client-to-jetty10)
+* [puppetlabs/clj-pcp-client (PE-36361-move-pcp-client-to-jetty10)](https://github.com/puppetlabs/clj-pcp-client/tree/PE-36361-move-pcp-client-to-jetty10)
 
-* [puppetlabs/dependency_checker (main)](https://github.com/puppetlabs/dependency_checkermain)
+* [puppetlabs/dependency_checker (main)](https://github.com/puppetlabs/dependency_checker/tree/main)
 
-* [puppetlabs/design-system (MAINT-BUTTON-SELECT-PROPTYPES)](https://github.com/puppetlabs/design-systemMAINT-BUTTON-SELECT-PROPTYPES)
+* [puppetlabs/design-system (MAINT-BUTTON-SELECT-PROPTYPES)](https://github.com/puppetlabs/design-system/tree/MAINT-BUTTON-SELECT-PROPTYPES)
 
-* [puppetlabs/design-system (PDS-565/objects-as-values)](https://github.com/puppetlabs/design-systemPDS-565/objects-as-values)
+* [puppetlabs/design-system (PDS-565/objects-as-values)](https://github.com/puppetlabs/design-system/tree/PDS-565/objects-as-values)
 
-* [puppetlabs/harrison (PF-2882)](https://github.com/puppetlabs/harrisonPF-2882)
+* [puppetlabs/harrison (PF-2882)](https://github.com/puppetlabs/harrison/tree/PF-2882)
 
-* [puppetlabs/jruby-deps (9.2.x)](https://github.com/puppetlabs/jruby-deps9.2.x)
+* [puppetlabs/jruby-deps (9.2.x)](https://github.com/puppetlabs/jruby-deps/tree/9.2.x)
 
-* [puppetlabs/jruby-utils (3.x)](https://github.com/puppetlabs/jruby-utils3.x)
+* [puppetlabs/jruby-utils (3.x)](https://github.com/puppetlabs/jruby-utils/tree/3.x)
 
-* [puppetlabs/jruby-utils (4.x)](https://github.com/puppetlabs/jruby-utils4.x)
+* [puppetlabs/jruby-utils (4.x)](https://github.com/puppetlabs/jruby-utils/tree/4.x)
 
-* [puppetlabs/jruby-utils (PE-33912-dumpling-codeowners)](https://github.com/puppetlabs/jruby-utilsPE-33912-dumpling-codeowners)
+* [puppetlabs/jruby-utils (PE-33912-dumpling-codeowners)](https://github.com/puppetlabs/jruby-utils/tree/PE-33912-dumpling-codeowners)
 
-* [puppetlabs/jruby-utils (jruby-jnr-pin)](https://github.com/puppetlabs/jruby-utilsjruby-jnr-pin)
+* [puppetlabs/jruby-utils (jruby-jnr-pin)](https://github.com/puppetlabs/jruby-utils/tree/jruby-jnr-pin)
 
-* [puppetlabs/litmusimage (fix-acceptance)](https://github.com/puppetlabs/litmusimagefix-acceptance)
+* [puppetlabs/litmusimage (fix-acceptance)](https://github.com/puppetlabs/litmusimage/tree/fix-acceptance)
 
-* [puppetlabs/litmusimage (main)](https://github.com/puppetlabs/litmusimagemain)
+* [puppetlabs/litmusimage (main)](https://github.com/puppetlabs/litmusimage/tree/main)
 
-* [puppetlabs/litmusimage (test)](https://github.com/puppetlabs/litmusimagetest)
+* [puppetlabs/litmusimage (test)](https://github.com/puppetlabs/litmusimage/tree/test)
 
-* [puppetlabs/pcp-broker (2019.8.x)](https://github.com/puppetlabs/pcp-broker2019.8.x)
+* [puppetlabs/pcp-broker (2019.8.x)](https://github.com/puppetlabs/pcp-broker/tree/2019.8.x)
 
-* [puppetlabs/pdk (main)](https://github.com/puppetlabs/pdkmain)
+* [puppetlabs/pdk (main)](https://github.com/puppetlabs/pdk/tree/main)
 
-* [puppetlabs/pdk-docker (cat_1700_stop_forks_running_push)](https://github.com/puppetlabs/pdk-dockercat_1700_stop_forks_running_push)
+* [puppetlabs/pdk-docker (cat_1700_stop_forks_running_push)](https://github.com/puppetlabs/pdk-docker/tree/cat_1700_stop_forks_running_push)
 
-* [puppetlabs/pdk-docker (main)](https://github.com/puppetlabs/pdk-dockermain)
+* [puppetlabs/pdk-docker (main)](https://github.com/puppetlabs/pdk-docker/tree/main)
 
-* [puppetlabs/pdk-docker (stable)](https://github.com/puppetlabs/pdk-dockerstable)
+* [puppetlabs/pdk-docker (stable)](https://github.com/puppetlabs/pdk-docker/tree/stable)
 
-* [puppetlabs/pdk-rubocop (main)](https://github.com/puppetlabs/pdk-rubocopmain)
+* [puppetlabs/pdk-rubocop (main)](https://github.com/puppetlabs/pdk-rubocop/tree/main)
 
-* [puppetlabs/pdk-templates (main)](https://github.com/puppetlabs/pdk-templatesmain)
+* [puppetlabs/pdk-templates (main)](https://github.com/puppetlabs/pdk-templates/tree/main)
 
-* [puppetlabs/pdk-vanagon (ds_test_branch)](https://github.com/puppetlabs/pdk-vanagonds_test_branch)
+* [puppetlabs/pdk-vanagon (ds_test_branch)](https://github.com/puppetlabs/pdk-vanagon/tree/ds_test_branch)
 
-* [puppetlabs/pdk-vanagon (main)](https://github.com/puppetlabs/pdk-vanagonmain)
+* [puppetlabs/pdk-vanagon (main)](https://github.com/puppetlabs/pdk-vanagon/tree/main)
 
-* [puppetlabs/pdksync (main)](https://github.com/puppetlabs/pdksyncmain)
+* [puppetlabs/pdksync (main)](https://github.com/puppetlabs/pdksync/tree/main)
 
-* [puppetlabs/phoenix-github-actions (backport)](https://github.com/puppetlabs/phoenix-github-actionsbackport)
+* [puppetlabs/phoenix-github-actions (backport)](https://github.com/puppetlabs/phoenix-github-actions/tree/backport)
 
-* [puppetlabs/provision (main)](https://github.com/puppetlabs/provisionmain)
+* [puppetlabs/provision (main)](https://github.com/puppetlabs/provision/tree/main)
 
-* [puppetlabs/puppet (bug-honour_custom_insync_in_noop)](https://github.com/puppetlabs/puppetbug-honour_custom_insync_in_noop)
+* [puppetlabs/puppet (bug-honour_custom_insync_in_noop)](https://github.com/puppetlabs/puppet/tree/bug-honour_custom_insync_in_noop)
 
-* [puppetlabs/puppet (main)](https://github.com/puppetlabs/puppetmain)
+* [puppetlabs/puppet (main)](https://github.com/puppetlabs/puppet/tree/main)
 
-* [puppetlabs/puppet-agent (main)](https://github.com/puppetlabs/puppet-agentmain)
+* [puppetlabs/puppet-agent (main)](https://github.com/puppetlabs/puppet-agent/tree/main)
 
-* [puppetlabs/puppet-editor-services (main)](https://github.com/puppetlabs/puppet-editor-servicesmain)
+* [puppetlabs/puppet-editor-services (main)](https://github.com/puppetlabs/puppet-editor-services/tree/main)
 
-* [puppetlabs/puppet-lint (hackathon_deprecated_functions)](https://github.com/puppetlabs/puppet-linthackathon_deprecated_functions)
+* [puppetlabs/puppet-lint (hackathon_deprecated_functions)](https://github.com/puppetlabs/puppet-lint/tree/hackathon_deprecated_functions)
 
-* [puppetlabs/puppet-lint (hsnodgrass-patch-1)](https://github.com/puppetlabs/puppet-linthsnodgrass-patch-1)
+* [puppetlabs/puppet-lint (hsnodgrass-patch-1)](https://github.com/puppetlabs/puppet-lint/tree/hsnodgrass-patch-1)
 
-* [puppetlabs/puppet-lint (main)](https://github.com/puppetlabs/puppet-lintmain)
+* [puppetlabs/puppet-lint (main)](https://github.com/puppetlabs/puppet-lint/tree/main)
 
-* [puppetlabs/puppet-lint-check_unsafe_interpolations (CAT-1301-Bump_release_version)](https://github.com/puppetlabs/puppet-lint-check_unsafe_interpolationsCAT-1301-Bump_release_version)
+* [puppetlabs/puppet-lint-check_unsafe_interpolations (CAT-1301-Bump_release_version)](https://github.com/puppetlabs/puppet-lint-check_unsafe_interpolations/tree/CAT-1301-Bump_release_version)
 
-* [puppetlabs/puppet-lint-check_unsafe_interpolations (main)](https://github.com/puppetlabs/puppet-lint-check_unsafe_interpolationsmain)
+* [puppetlabs/puppet-lint-check_unsafe_interpolations (main)](https://github.com/puppetlabs/puppet-lint-check_unsafe_interpolations/tree/main)
 
-* [puppetlabs/puppet-lint-check_unsafe_interpolations (maint-update_codeowners)](https://github.com/puppetlabs/puppet-lint-check_unsafe_interpolationsmaint-update_codeowners)
+* [puppetlabs/puppet-lint-check_unsafe_interpolations (maint-update_codeowners)](https://github.com/puppetlabs/puppet-lint-check_unsafe_interpolations/tree/maint-update_codeowners)
 
-* [puppetlabs/puppet-modulebuilder (main)](https://github.com/puppetlabs/puppet-modulebuildermain)
+* [puppetlabs/puppet-modulebuilder (main)](https://github.com/puppetlabs/puppet-modulebuilder/tree/main)
 
-* [puppetlabs/puppet-resource_api (main)](https://github.com/puppetlabs/puppet-resource_apimain)
+* [puppetlabs/puppet-resource_api (main)](https://github.com/puppetlabs/puppet-resource_api/tree/main)
 
-* [puppetlabs/puppet-strings (main)](https://github.com/puppetlabs/puppet-stringsmain)
+* [puppetlabs/puppet-strings (main)](https://github.com/puppetlabs/puppet-strings/tree/main)
 
-* [puppetlabs/puppet-vscode (main)](https://github.com/puppetlabs/puppet-vscodemain)
+* [puppetlabs/puppet-vscode (main)](https://github.com/puppetlabs/puppet-vscode/tree/main)
 
-* [puppetlabs/Puppet.Dsc (main)](https://github.com/puppetlabs/Puppet.Dscmain)
+* [puppetlabs/Puppet.Dsc (main)](https://github.com/puppetlabs/Puppet.Dsc/tree/main)
 
-* [puppetlabs/puppetfile-resolver (main)](https://github.com/puppetlabs/puppetfile-resolvermain)
+* [puppetlabs/puppetfile-resolver (main)](https://github.com/puppetlabs/puppetfile-resolver/tree/main)
 
-* [puppetlabs/puppetlabs-dropsonde (main)](https://github.com/puppetlabs/puppetlabs-dropsondemain)
+* [puppetlabs/puppetlabs-dropsonde (main)](https://github.com/puppetlabs/puppetlabs-dropsonde/tree/main)
 
-* [puppetlabs/puppetlabs-dsc_lite (main)](https://github.com/puppetlabs/puppetlabs-dsc_litemain)
+* [puppetlabs/puppetlabs-dsc_lite (main)](https://github.com/puppetlabs/puppetlabs-dsc_lite/tree/main)
 
-* [puppetlabs/puppetlabs-helm (main)](https://github.com/puppetlabs/puppetlabs-helmmain)
+* [puppetlabs/puppetlabs-helm (main)](https://github.com/puppetlabs/puppetlabs-helm/tree/main)
 
-* [puppetlabs/puppetlabs-ibm_installation_manager (main)](https://github.com/puppetlabs/puppetlabs-ibm_installation_managermain)
+* [puppetlabs/puppetlabs-ibm_installation_manager (main)](https://github.com/puppetlabs/puppetlabs-ibm_installation_manager/tree/main)
 
-* [puppetlabs/puppetlabs-panos (main)](https://github.com/puppetlabs/puppetlabs-panosmain)
+* [puppetlabs/puppetlabs-panos (main)](https://github.com/puppetlabs/puppetlabs-panos/tree/main)
 
-* [puppetlabs/puppetlabs-puppet_authorization (main)](https://github.com/puppetlabs/puppetlabs-puppet_authorizationmain)
+* [puppetlabs/puppetlabs-puppet_authorization (main)](https://github.com/puppetlabs/puppetlabs-puppet_authorization/tree/main)
 
-* [puppetlabs/puppetlabs-rook (main)](https://github.com/puppetlabs/puppetlabs-rookmain)
+* [puppetlabs/puppetlabs-rook (main)](https://github.com/puppetlabs/puppetlabs-rook/tree/main)
 
-* [puppetlabs/puppetlabs-tagmail (main)](https://github.com/puppetlabs/puppetlabs-tagmailmain)
+* [puppetlabs/puppetlabs-tagmail (main)](https://github.com/puppetlabs/puppetlabs-tagmail/tree/main)
 
-* [puppetlabs/puppetlabs-testing (main)](https://github.com/puppetlabs/puppetlabs-testingmain)
+* [puppetlabs/puppetlabs-testing (main)](https://github.com/puppetlabs/puppetlabs-testing/tree/main)
 
-* [puppetlabs/puppetlabs-testing (maint-testing-ubuntu-user-script)](https://github.com/puppetlabs/puppetlabs-testingmaint-testing-ubuntu-user-script)
+* [puppetlabs/puppetlabs-testing (maint-testing-ubuntu-user-script)](https://github.com/puppetlabs/puppetlabs-testing/tree/maint-testing-ubuntu-user-script)
 
-* [puppetlabs/puppetlabs-testing (release-prep)](https://github.com/puppetlabs/puppetlabs-testingrelease-prep)
+* [puppetlabs/puppetlabs-testing (release-prep)](https://github.com/puppetlabs/puppetlabs-testing/tree/release-prep)
 
-* [puppetlabs/puppetlabs-testing (test)](https://github.com/puppetlabs/puppetlabs-testingtest)
+* [puppetlabs/puppetlabs-testing (test)](https://github.com/puppetlabs/puppetlabs-testing/tree/test)
 
-* [puppetlabs/puppetlabs-testing (validate-mand)](https://github.com/puppetlabs/puppetlabs-testingvalidate-mand)
+* [puppetlabs/puppetlabs-testing (validate-mand)](https://github.com/puppetlabs/puppetlabs-testing/tree/validate-mand)
 
-* [puppetlabs/puppetlabs-vsphere (main)](https://github.com/puppetlabs/puppetlabs-vspheremain)
+* [puppetlabs/puppetlabs-vsphere (main)](https://github.com/puppetlabs/puppetlabs-vsphere/tree/main)
 
-* [puppetlabs/puppetlabs-websphere_application_server (main)](https://github.com/puppetlabs/puppetlabs-websphere_application_servermain)
+* [puppetlabs/puppetlabs-websphere_application_server (main)](https://github.com/puppetlabs/puppetlabs-websphere_application_server/tree/main)
 
-* [puppetlabs/puppetlabs_spec_helper (main)](https://github.com/puppetlabs/puppetlabs_spec_helpermain)
+* [puppetlabs/puppetlabs_spec_helper (main)](https://github.com/puppetlabs/puppetlabs_spec_helper/tree/main)
 
-* [puppetlabs/puppet_litmus (main)](https://github.com/puppetlabs/puppet_litmusmain)
+* [puppetlabs/puppet_litmus (main)](https://github.com/puppetlabs/puppet_litmus/tree/main)
 
-* [puppetlabs/rspec-puppet (main)](https://github.com/puppetlabs/rspec-puppetmain)
+* [puppetlabs/rspec-puppet (main)](https://github.com/puppetlabs/rspec-puppet/tree/main)
 
-* [puppetlabs/ruby-pwsh (main)](https://github.com/puppetlabs/ruby-pwshmain)
+* [puppetlabs/ruby-pwsh (main)](https://github.com/puppetlabs/ruby-pwsh/tree/main)
 
 </details>
 
@@ -305,4 +305,4 @@ Files with 'pull_request_target' in their workflows are not inherently dangerous
 
 ---
 
-Created at: 2024-06-08 08:57:18 +0000
+Created at: 2024-06-08 13:39:36 +0000
