@@ -7,7 +7,7 @@
 Branches with 'pull_request_target' in their workflows are not inherently dangerous. However, they should be reviewed to ensure security best practices.
 </summary>
 <% branches_with_pull_request_target.each do |entry| %>
-* [<%= entry[:repo]%> (<%= entry[:branch] %>)](https://github.com/<%= entry[:repo] %><%= entry[:branch] %>)
+* [<%= entry[:repo]%> (<%= entry[:branch] %>)](https://github.com/<%= entry[:repo] %>/tree/<%= entry[:branch] %>)
 <% end %>
 </details>
 <% end %>
