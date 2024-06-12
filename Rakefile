@@ -2,7 +2,7 @@ require "erb"
 require "base64"
 require "octokit"
 
-@org = ENV["GITHUB_ORG"] || "puppetlabs"
+@org = ENV["GITHUB_ORG"] || "coperp"
 
 def github_client(page_size = 100)
   return @singleton_client if @singleton_client
