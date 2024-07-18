@@ -16,8 +16,8 @@
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/insecure_triggers.git
-   cd insecure_triggers
+   git clone https://github.com/malikparvez/github_repo_audit.git
+   cd github_repo_audit
    ```
 
 2. **Install Dependencies:**
@@ -39,7 +39,7 @@
 Run the Rake task to scan the repositories:
 
 ```sh
-bundle exec rake insecure_triggers.rake
+bundle exec rake insecure_triggers
 ```
 
 This will scan the repositories and generate a report based on the findings.
