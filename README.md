@@ -1,7 +1,7 @@
 
 ---
 
-# insecure_triggers
+# github_repo_audit
 
 `insecure_triggers` is a tool designed to scan GitHub repositories for potentially insecure workflow configurations, specifically looking for occurrences of the `pull_request_target` trigger in GitHub Actions workflows. This trigger can be misused in certain configurations, leading to security vulnerabilities.
 
